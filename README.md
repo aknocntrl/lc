@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
