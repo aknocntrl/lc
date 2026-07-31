@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/aknocntrl/lc/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknocntrl/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/aknocntrl/lc/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
