@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/aknocntrl/lc/tree/master/0605-can-place-flowers) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aknocntrl/lc/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
