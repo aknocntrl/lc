@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/aknocntrl/lc/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
@@ -95,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/aknocntrl/lc/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
