@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aknocntrl/lc/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aknocntrl/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aknocntrl/lc/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aknocntrl/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknocntrl/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aknocntrl/lc/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aknocntrl/lc/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aknocntrl/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
