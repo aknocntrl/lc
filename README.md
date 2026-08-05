@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/aknocntrl/lc/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/aknocntrl/lc/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/aknocntrl/lc/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aknocntrl/lc/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
+| [1207-unique-number-of-occurrences](https://github.com/aknocntrl/lc/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknocntrl/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aknocntrl/lc/tree/master/3731-find-missing-elements) |
