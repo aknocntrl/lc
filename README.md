@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/aknocntrl/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aknocntrl/lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aknocntrl/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/aknocntrl/lc/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aknocntrl/lc/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aknocntrl/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
