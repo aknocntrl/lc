@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/aknocntrl/lc/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/aknocntrl/lc/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/aknocntrl/lc/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/aknocntrl/lc/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aknocntrl/lc/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aknocntrl/lc/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
