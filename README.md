@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aknocntrl/lc/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aknocntrl/lc/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/aknocntrl/lc/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/aknocntrl/lc/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aknocntrl/lc/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/aknocntrl/lc/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
