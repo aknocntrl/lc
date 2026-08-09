@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/aknocntrl/lc/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/aknocntrl/lc/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/aknocntrl/lc/tree/master/1732-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
