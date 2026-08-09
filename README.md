@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/aknocntrl/lc/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aknocntrl/lc/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aknocntrl/lc/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/aknocntrl/lc/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/aknocntrl/lc/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aknocntrl/lc/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknocntrl/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aknocntrl/lc/tree/master/3731-find-missing-elements) |
