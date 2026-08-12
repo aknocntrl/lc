@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aknocntrl/lc/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/aknocntrl/lc/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/aknocntrl/lc/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aknocntrl/lc/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknocntrl/lc/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/aknocntrl/lc/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aknocntrl/lc/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aknocntrl/lc/tree/master/0283-move-zeroes) |
