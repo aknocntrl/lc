@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/aknocntrl/lc/tree/master/0374-guess-number-higher-or-lower) |
 ## Minimax
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aknocntrl/lc/tree/master/1510-stone-game-iv) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aknocntrl/lc/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
