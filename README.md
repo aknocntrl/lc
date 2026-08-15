@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/aknocntrl/lc/tree/master/1732-find-the-highest-altitude) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aknocntrl/lc/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aknocntrl/lc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aknocntrl/lc/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aknocntrl/lc/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/aknocntrl/lc/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aknocntrl/lc/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aknocntrl/lc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
