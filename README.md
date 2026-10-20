@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aknocntrl/lc/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/aknocntrl/lc/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aknocntrl/lc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aknocntrl/lc/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aknocntrl/lc/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aknocntrl/lc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aknocntrl/lc/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aknocntrl/lc/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aknocntrl/lc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknocntrl/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aknocntrl/lc/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aknocntrl/lc/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/aknocntrl/lc/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aknocntrl/lc/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Minimax
 |  |
 | ------- |
